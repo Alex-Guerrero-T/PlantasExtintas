@@ -1,0 +1,14 @@
+---
+title: "Trabajo con plantas extintas"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introducción
+
+Queremos saber ahora para probar solamentela app queremos ir probando si es que efectivamente podemos ocupar github con rstudio
+
+## Subtítulo
