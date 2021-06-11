@@ -13,3 +13,15 @@ Queremos saber ahora para probar solamentela app queremos ir probando si es que 
 
 ## Subtítulo
 
+Vamos a partir por cargar los pauetes necesarios para trabajar
+
+```{r}
+library(tidyverse)
+```
+
+Ahora voy a leer los datos con los que voy a trabajar:
+
+```{r}
+plants <- read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-08-18/plants.csv")
+```
+
